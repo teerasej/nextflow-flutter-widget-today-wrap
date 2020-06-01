@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Container(
         padding: EdgeInsets.all(10),
         child: Wrap(
-          alignment: W`rapAlignment.start,
+          alignment: WrapAlignment.start,
           spacing: 10,
           runSpacing: 10,
           children: <Widget>[
