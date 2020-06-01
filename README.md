@@ -8,7 +8,7 @@
 
 สามารถกด subscribe ติดตามคลิปเรื่อง Flutter และคลิปใหม่ๆ ได้ผ่านช่อง Youtube ของโค้ชพลนะครับ 
 
-https://youtu.be/nkNbgU6z_hU
+https://youtu.be/ktytBG1qJoc
 
 ## เริ่มต้นเรียนรู้สร้างแอพ iOS และ Android ด้วย Google Flutter 
 
