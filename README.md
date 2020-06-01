@@ -1,16 +1,17 @@
-# nextflow_widget_wrap
+# nextflow_wrap
 
-A new Flutter project.
+โปรเจค Flutter สำหรับฝึกฝนเรียนรู้การใช้งาน Widget กับโค้ชพลนะครับ ในรอบนี้มารู้จักกับ Widget ที่เราเห็นแล้วอาจจะคิดว่า ทำไมไม่บอกตั้งแต่แรก นั่นคือ `Wrap` widget นั่นเอง
 
-## Getting Started
+มันช่วยจัดเรียง Widget ในตัวมันได้เหมือนกับ Row และ Column แต่มีคุณสมบัติในการ "ขึ้นแถวใหม่" อัตโนมัติที่หลายๆ คนอาจจะกำลังตามหา ลองเลย!
 
-This project is a starting point for a Flutter application.
+## ดูคลิปทำตามได้ที่นี่เลย 
 
-A few resources to get you started if this is your first Flutter project:
+สามารถกด subscribe ติดตามคลิปเรื่อง Flutter และคลิปใหม่ๆ ได้ผ่านช่อง Youtube ของโค้ชพลนะครับ 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://youtu.be/nkNbgU6z_hU
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## เริ่มต้นเรียนรู้สร้างแอพ iOS และ Android ด้วย Google Flutter 
+
+ออกแบบให้เข้าใจง่าย ฝึกทำและเรียนรู้จากแอพจริง ดูรายละเอียดและซื้อได้ที่ลิ้งค์ด้านล่างเลยครับ 
+
+https://nextflow.in.th/google-flutter-online/
