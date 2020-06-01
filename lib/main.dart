@@ -39,10 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Container(
         padding: EdgeInsets.all(10),
-        child: Wrap(
-          alignment: WrapAlignment.start,
-          spacing: 10,
-          runSpacing: 10,
+        child: Row(
           children: <Widget>[
             Image.asset('images/teach1.jpg', width: 180),
             Image.asset('images/botprogramming.jpg', width: 180),
